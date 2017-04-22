@@ -10,4 +10,5 @@ II.
     2) python -m SimpleHTTPServer
   3. Now your http server will start in port 8000. You will get the message:
       >Serving HTTP on 0.0.0.0 port 8000 ...
-  4. Open any browser and access the portfolio via >http://127.0.0.1:8000
+  4. Open any browser and access the portfolio via 
+      >http://127.0.0.1:8000
