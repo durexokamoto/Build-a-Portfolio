@@ -1,0 +1,46 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+
+.row_1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row.text-center {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cover-responsive {
+  width: 100%;
+}
+
+
+.col-md-3 {
+  text-align: center;
+}
+
+.img-responsive {
+  margin: auto;
+  width: 80%;
+}
+
+.text-muted {
+  color: #BCBBBB;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-super {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+}
+
