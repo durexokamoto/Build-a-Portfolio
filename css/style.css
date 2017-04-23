@@ -1,31 +1,11 @@
 body {
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #747704;
   font-weight: 300;
 }
 
-.row_1 {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.row.text-center {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.cover-responsive {
-  width: 100%;
-}
-
-
-.col-md-3 {
-  text-align: center;
-}
-
 .img-responsive {
-  margin: auto;
-  width: 80%;
+  width: 100%;
 }
 
 .text-muted {
@@ -40,7 +20,12 @@ body {
   font-size: 60px;
 }
 
-.title-logo {
-  margin-top: 20px;
+.image-center {
+  display: block;
+  margin: auto;
+  width: 99%;
 }
 
+.logo {
+  margin-top: 20px;
+}
